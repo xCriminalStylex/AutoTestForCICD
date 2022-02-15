@@ -10,8 +10,8 @@ namespace AutoTestForCICD
     {
         public static int MultiplicationPlusSquare(int a, int b, int c, int d)
         {
-            
-            return  (a * b) - (c * d);
+            int result = a * b - c * d;
+            return result;
             
         }
     }
