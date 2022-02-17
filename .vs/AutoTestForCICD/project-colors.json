@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "993c9f62-f6e8-47fe-8dc4-51dd13fc5a86": {
+      "ProjectGuid": "993c9f62-f6e8-47fe-8dc4-51dd13fc5a86",
+      "DisplayName": "AutoTestForCICD",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
