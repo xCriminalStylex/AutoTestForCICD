@@ -13,8 +13,7 @@ namespace AutoTestForCICD
             //test
             int result = a * b - c * d;
             return result;
-                     
-            
+                                
         }
     }
 }
