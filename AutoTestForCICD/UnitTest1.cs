@@ -7,9 +7,7 @@ namespace AutoTestForCICD
     {
         [Theory]
         [InlineData(122, 12, 45, 1470, -64686)]
-        
-        
-        
+                
         
         [InlineData(-186592, 98, 17, -1828, -18254940)]
         [InlineData(122, 1896, 78, 23132, -1572984)]
