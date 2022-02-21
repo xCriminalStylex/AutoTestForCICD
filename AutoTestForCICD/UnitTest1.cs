@@ -6,10 +6,9 @@ namespace AutoTestForCICD
     public class TestNewFunction
     {
         [Theory]
-        [InlineData(122, 12, 45, 1470, -64686)]                       
+        [InlineData(122, 12, 45, 1470, -64686)]          
         [InlineData(-186592, 98, 17, -1828, -18254940)]        
-        [InlineData(122, 1896, 78, 23132, -1572984)]
-        
+        [InlineData(122, 1896, 78, 23132, -1572984)]       
         [InlineData(-5638, 85, 67, -4792, -158166)]
         [InlineData(68578, -452, 28, -30997, -30129340)]
         [InlineData(1257, 742, -89, -21465, -977691)]
